@@ -4,8 +4,49 @@
     font-family: 'PT Serif', serif;
 */
 
+h1 {
+  font-family: 'Cinzel', serif;
+  font-weight: 900;
+  font-size: 96px;
+  text-align: center;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 0.9;
+  margin-bottom: 3%;
+  color: #414141;
+}
+
 .container {
   width: 90%;
   max-width: 39rem;
   margin: 0 auto;
+}
+
+.subtitle {
+  font-size: 36px;
+  color: #7D7D7D;
+  text-align: center;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.6;
+  margin-bottom: 6%;
+
+  
+}
+
+body {
+  font-family: 'PT Serif', serif;
+  line-height: 1.6;
+  font-size: 18px;
+  color:#414141;
+}
+
+.lead {
+  font-size: 21px;
+}
+
+a {
+  color:  #CA5E10;
 }
